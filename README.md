@@ -27,7 +27,7 @@ Ze względu na konieczność synchronizacji dostępu, można zaimplementować te
 
 Symulator ma działać w dwóch trybach:
 ● w trybie “gadatliwym” albo
-● w trybie “spokojnym”.
+● w trybie “spokojnym”. 
 
 W trybie “gadatliwym” wypisywane są na bieżąco komunikaty o zdarzeniach które zachodzą w 
 symulowanym przedsiębiorstwie ­­ taki rodzaj “tekstowej animacji” przedstawiającej jego 
