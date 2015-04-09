@@ -26,7 +26,7 @@ Ze względu na konieczność synchronizacji dostępu, można zaimplementować te
 (serwery) do obsługi poszczególnych struktur danych (listy zadań, magazynu).
 
 Symulator ma działać w dwóch trybach:
-● w trybie “gadatliwym” albo \n
+● w trybie “gadatliwym” albo
 ● w trybie “spokojnym”. 
 
 W trybie “gadatliwym” wypisywane są na bieżąco komunikaty o zdarzeniach które zachodzą w 
